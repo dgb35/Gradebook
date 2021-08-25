@@ -1,2 +1,2 @@
 # Gradebook
-Сoursework on the subject OOP in the university KNURE
+Сoursework on the subject OOP in the NURE university
