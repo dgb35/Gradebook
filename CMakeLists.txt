@@ -6,7 +6,7 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 set(FILES
         cpp/exam.cpp
         cpp/gradebook.cpp
-        cpp/menu.cpp
+        cpp/menu/menu.cpp
         cpp/person.cpp
         cpp/student.cpp
         cpp/teacher.cpp
@@ -14,7 +14,7 @@ set(FILES
 
         include/exam.h
         include/gradebook.h
-        include/menu.h
+        include/menu/menu.h
         include/person.h
         include/student.h
         include/teacher.h

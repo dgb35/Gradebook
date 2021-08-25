@@ -1,4 +1,4 @@
-#include "../include/teacher.h"
+#include "teacher.h"
 #include <sstream>
 #include <iostream>
 

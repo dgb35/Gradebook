@@ -1,11 +1,11 @@
 #include <iostream>
 
-#include "../include/person.h"
-#include "../include/student.h"
-#include "../include/teacher.h"
-#include "../include/exam.h"
-#include "../include/gradebook.h"
-#include "../include/menu.h"
+#include "person.h"
+#include "student.h"
+#include "teacher.h"
+#include "exam.h"
+#include "gradebook.h"
+#include "menu/menu.h"
 
 constexpr const std::string_view fileName = "data.txt";
 
